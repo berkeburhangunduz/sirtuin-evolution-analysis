@@ -1,8 +1,6 @@
-# sirtuin-evolution-analysis
+# Evolutionary Analysis of SIRT1 and SIRT5
 
 Evolutionary analysis of SIRT1 and SIRT5 across vertebrate species.
-
-# Evolutionary Analysis of SIRT1 and SIRT5
 
 ## Overview
 
