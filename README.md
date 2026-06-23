@@ -6,6 +6,9 @@ Evolutionary analysis of SIRT1 and SIRT5 across vertebrate species.
 
 This project investigates evolutionary selection patterns in SIRT1 and SIRT5 across vertebrate species using codon-based evolutionary analyses and structural annotation.
 
+### Why SIRT1 and SIRT5?
+
+SIRT1 and SIRT5 were selected as representative members of the sirtuin gene family due to their distinct biological functions and cellular localizations. SIRT1 is a predominantly nuclear sirtuin involved in transcriptional regulation, metabolism, stress responses, and aging-related pathways, whereas SIRT5 is a mitochondrial sirtuin specialized in the regulation of metabolic enzymes through desuccinylation, demalonylation, and deglutarylation activities. Comparing these two functionally divergent sirtuins provides an opportunity to investigate whether different evolutionary pressures have shaped their coding sequences across vertebrate evolution.
 ## Methods
 
 - Multiple sequence alignment
